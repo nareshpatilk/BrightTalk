@@ -17,7 +17,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class Application extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
-		System.out.println("new @@@@@@@@@")
+		System.out.println("new @@@@@@@@@");
 		SpringApplication.run(Application.class, args);
 	}
 
